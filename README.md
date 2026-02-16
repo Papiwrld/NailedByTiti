@@ -31,7 +31,7 @@ A beautiful, high-conversion booking website for a student nail tech brand. Buil
 - Smooth animations
 - Premium feel
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Install dependencies
@@ -43,7 +43,7 @@ npm run dev
 # Open http://localhost:3000
 ```
 
-## 📋 Services & Pricing
+##  Services & Pricing
 
 ### Base Services
 - **Very Short Acrylics (Hard Color):** GH₵ 100 - 120
@@ -97,7 +97,7 @@ NailedByTiti/
         └── services/       # Service showcase images
 ```
 
-## 🎯 Booking Flow
+##  Booking Flow
 
 1. User views Hero section (logo, headline, CTA)
 2. Scrolls through gallery of past works
@@ -128,7 +128,7 @@ The website enforces 3 key policies before booking:
 
 Users **cannot** book until they check the agreement box.
 
-## 📞 WhatsApp Integration
+##  WhatsApp Integration
 
 Phone: `+233 20 061 9711`
 
@@ -214,7 +214,7 @@ Private project for Nailed By Titi.
 
 ## 👩‍💻 Developer
 
-Built with ❤️ for Titi's nail business
+Built with ❤️ by Eugene for Titi's nail business
 
 ---
 

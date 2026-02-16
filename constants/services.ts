@@ -82,8 +82,8 @@ export const WHATSAPP_NUMBER = '233200619711';
 // Business Info
 export const BUSINESS_INFO = {
     name: 'Nailed By Titi',
-    location: 'Opposite The Edge Apartment, East Legon',
-    hours: 'Daily: 2pm - 8pm',
+    location: 'Legon, Accra',
+    hours: 'Varies (By Appointment)',
     phone: '+233 20 061 9711',
 };
 

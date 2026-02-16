@@ -74,7 +74,7 @@ export default function Footer() {
                 {/* Bottom Bar */}
                 <div className="pt-8 border-t border-cream-300 flex flex-col md:flex-row items-center justify-between gap-6">
                     <p className="text-sm text-gray-500">
-                        Nailed by Titi · made by{' '}
+                        Nailed by Titi · designed by{' '}
                         <a
                             href="https://www.instagram.com/papiwrld_"
                             target="_blank"
